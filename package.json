@@ -1,6 +1,6 @@
 {
   "name": "wav-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package for encoding PCM to Wav and decoding Wav back to PCM.",
   "main": "index.js",
   "directories": {
